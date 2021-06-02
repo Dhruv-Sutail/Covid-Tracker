@@ -1,4 +1,4 @@
-# covid-tracker
+# covid-tracker site : https://covid19cases-tracker.netlify.app/
 
 ## Project setup
 ```
